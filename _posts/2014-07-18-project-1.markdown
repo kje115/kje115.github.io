@@ -6,6 +6,6 @@ img: 2rabbit.png.jfif
 alt: image-alt
 project-date: 2022
 client: Start Bootstrap
-category: Web Development
+category: UIUX
 description: 안녕하세요
 ---
