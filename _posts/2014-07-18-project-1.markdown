@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-12-06
-img: img.rabbit
+img: 2rabbit.png.jfif
 alt: image-alt
 project-date: 2022
 client: Start Bootstrap
